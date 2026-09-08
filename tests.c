@@ -1,3 +1,5 @@
+/*This .c file is only for testing purpose; 
+To write rough codes before it is officially made into a program*/
 #include <stdio.h>
 int main(void)
 {
