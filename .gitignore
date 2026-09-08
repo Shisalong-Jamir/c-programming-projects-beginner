@@ -1,0 +1,25 @@
+# Compiled binaries and executables (Windows & Linux/Mac)
+*.exe
+*.out
+*.app
+*.bin
+# Compiled Object files
+*.o
+*.obj
+# Dynamic & Static Libraries
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+# Debug symbols and directories
+*.dSYM/
+*.pdb
+# Build output directories
+bin/
+build/
+dist/
+# IDE / Editor configuration folders
+.vscode/
+.idea/
+*.swp
